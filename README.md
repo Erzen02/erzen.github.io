@@ -3,7 +3,7 @@
 ## Descriptin
 
 Source code of Erzen's portal site.  
-Link: W.I.P
+Link: [HERE](https://www.erzen.jp)
 
 ## Powered by
 
