@@ -1,6 +1,6 @@
 # erzen02.github.io
 
-## Descriptin
+## Description
 
 Source code of Erzen's portal site.  
 Link: [HERE](https://www.erzen.jp)
